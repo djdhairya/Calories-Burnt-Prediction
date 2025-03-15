@@ -114,3 +114,11 @@ The dataset and model performance are visualized using Matplotlib and Seaborn:
 ## License
 This project is licensed under the MIT License.
 
+
+![Screenshot 2025-03-15 121352](https://github.com/user-attachments/assets/bbab2bbe-fb17-4ab4-a771-44ce259d0595)
+![Screenshot 2025-03-15 121505](https://github.com/user-attachments/assets/e0f6e5fc-98c9-411c-91be-38b0d982ad35)
+![Screenshot 2025-03-15 121511](https://github.com/user-attachments/assets/3cab3680-54f2-4dbe-b4a2-6d3a709066f5)
+
+
+
+
