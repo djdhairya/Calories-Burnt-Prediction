@@ -25,8 +25,8 @@ Ensure you have the following installed:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/calories-burnt-prediction.git
-   cd calories-burnt-prediction
+   git clone https://github.com/djdhairya/Calories-Burnt-Prediction.git
+   
    ```
 2. Install dependencies:
    ```sh
